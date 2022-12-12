@@ -9,6 +9,10 @@ problems were identified in the original meshes and several changes were made to
 the texturing process. The most significant changes involved modifying the UV mapping to eliminate unnecessary
 seams/UV islands and ensuring that the dimensions of the high-poly and low-poly had fewer variations.
 
+The ready-to-import into the Unreal game engine assets are available as a [release](https://github.com/realityforge/course-substance-painter-rune-sword/releases/tag/v1.0).
+Included in the release notes are a render of the asset in-engine and images indicating how the material
+should be defined post-import and how the assets should be named to comply with unreal conventions. 
+
 The texturing involved the following process:
 
 * Create a separate folder for the "Blade", the "Handle" and the "Guard+Pommel"
